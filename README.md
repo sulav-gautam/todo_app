@@ -1,4 +1,6 @@
-# Sulav's To Do List
+# Sulav's To Do List:
+<img width="1440" alt="Screenshot 2024-06-17 at 20 44 55" src="https://github.com/sulav-gautam/todo_app/assets/159540990/77673695-d671-470c-9e00-6a03ea6502c4">
+
 
 ## Overview
 
